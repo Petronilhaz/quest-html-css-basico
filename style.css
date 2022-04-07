@@ -1,0 +1,16 @@
+.tabela-de-roupas th {
+
+    background-color: #bb86fc;
+
+}
+
+.tabela-de-roupas {
+    color: white;
+    height: 50%;
+    width: 70%; 
+}
+
+.tabela-de-roupas td {
+    background-color: #424250;
+
+}
